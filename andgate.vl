@@ -1,0 +1,6 @@
+andgate
+Module andgate(a,b,y);
+Input a,b;
+Output y;
+Assign y=a&b;
+endmodule
